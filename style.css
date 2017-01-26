@@ -1,0 +1,25 @@
+header{
+  color: white;
+}
+
+body{
+  background-color: #282828;
+  padding: 15px;
+}
+
+main{
+  width: 300px;
+  margin: auto;
+  background-color: #fff;
+  border: 20px solid #e53935;
+  padding: 10px 0 20px 0;
+  border-radius: 10px;
+  text-align: center;
+  font-family: arial;
+}
+
+.text-style {
+  color: #bf302c; /* Deep Red */
+  font-size: 18px;
+  font-family: times, serif;
+}
